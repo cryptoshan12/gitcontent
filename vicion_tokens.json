@@ -19,7 +19,7 @@
       "name": "Vicion Token",
       "symbol": "VG",
       "decimals": 18,
-      "logoURI": "/images/0x78aF400FB50A9828082eC1F925C640F55Da10A03.png"
+      "logoURI": "https://raw.githubusercontent.com/cryptoshan12/gitcontent/main/images/0x78aF400FB50A9828082eC1F925C640F55Da10A03.png"
     },
     {
       "chainId": 137,
@@ -27,7 +27,7 @@
       "name": "USD Tether",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0xc2132d05d31c914a87c6611c10748aeb04b58e8f/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png"
     }
   ]
   }
