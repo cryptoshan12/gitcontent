@@ -26,7 +26,7 @@
       "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
       "name": "Tether USD",
       "symbol": "USDT",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png"
     }
   ]
