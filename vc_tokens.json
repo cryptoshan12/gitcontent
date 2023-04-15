@@ -16,9 +16,9 @@
   "tokens": [
     {
       "chainId": 137,
-      "address": "0x78aF400FB50A9828082eC1F925C640F55Da10A03",
+      "address": "0x37070BF670d8cBb7DDaEf759Fa5E3Dd6dB6F2f10",
       "name": "Vicion Group Token",
-      "symbol": "VG",
+      "symbol": "VG Token",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/cryptoshan12/gitcontent/main/images/0x78aF400FB50A9828082eC1F925C640F55Da10A03.png"
     },
