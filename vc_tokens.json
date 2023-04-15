@@ -1,0 +1,34 @@
+
+{
+  "name": "Uniswap Labs Default",
+  "timestamp": "2023-03-15T15:00:07.960Z",
+  "version": {
+    "major": 9,
+    "minor": 1,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x78aF400FB50A9828082eC1F925C640F55Da10A03",
+      "name": "Vicion Group Token",
+      "symbol": "VG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cryptoshan12/gitcontent/main/images/0x78aF400FB50A9828082eC1F925C640F55Da10A03.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/polygon/assets/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png"
+    }
+  ]
+  }
